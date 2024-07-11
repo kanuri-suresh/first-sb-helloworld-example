@@ -11,6 +11,7 @@ public class FirstSbHelloworldExampleApplication {
 		SpringApplication.run(FirstSbHelloworldExampleApplication.class, args);
 
 		System.out.println("This is the first springboot application");
+		System.out.println("Github first commit test");
 
 	}
 
