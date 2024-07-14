@@ -1,5 +1,9 @@
 package com.sb.helloworld;
 
 public class newFileCommit {
-  System.out.println("remote repo to local repo");
+
+  public static void main(String[] args) {
+    System.out.println("remote repo to local repo");
+  }
+
 }
